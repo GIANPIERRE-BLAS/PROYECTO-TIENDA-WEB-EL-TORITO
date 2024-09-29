@@ -1302,7 +1302,8 @@
 }
 
 .bg-secondary {
-  background-color: #6c757d !important;
+    background-color: rgba(255, 0, 0, 0.5);
+    !important;
 }
 
 .bg-success {

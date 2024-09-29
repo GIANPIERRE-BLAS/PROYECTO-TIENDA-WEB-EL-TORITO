@@ -3,100 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|c:\\users\\usuario\\downloads\\026_sistemacarritocompras-main\\proyectotest\\imagenes\\log\\banner.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\imagenes\\log\\banner.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|c:\\users\\usuario\\downloads\\026_sistemacarritocompras-main\\proyectotest\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\home\\tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\home\\tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\tienda\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\tienda\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\home\\marca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\home\\marca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\logica\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\logica\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\logica\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\logica\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\logica\\carritologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\logica\\carritologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\utilidad\\sql server\\004_insertar ubigeo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|solutionrelative:utilidad\\sql server\\004_insertar ubigeo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\utilidad\\sql server\\003_insertar datos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|solutionrelative:utilidad\\sql server\\003_insertar datos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\utilidad\\sql server\\002_procedimientos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|solutionrelative:utilidad\\sql server\\002_procedimientos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\utilidad\\sql server\\001_creacion base y tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|solutionrelative:utilidad\\sql server\\001_creacion base y tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|c:\\users\\usuario\\downloads\\026_sistemacarritocompras-main\\proyectotest\\views\\login\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\login\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\shared\\_layout_tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\shared\\_layout_tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\scripts\\sweetalert\\sweetalert.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\scripts\\sweetalert\\sweetalert.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\scripts\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\scripts\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\home\\tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\home\\tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -111,305 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BANNER.png",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Imagenes\\log\\BANNER.png",
-              "RelativeDocumentMoniker": "ProyectoTest\\Imagenes\\log\\BANNER.png",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Imagenes\\log\\BANNER.png",
-              "RelativeToolTip": "ProyectoTest\\Imagenes\\log\\BANNER.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-09-26T21:07:36.114Z",
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAmwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T18:23:52.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Tienda\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Tienda\\Index.cshtml",
-              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAnAAAA",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-14T03:14:27.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Logica\\Conexion.cs",
-              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\Conexion.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Logica\\Conexion.cs",
-              "RelativeToolTip": "ProyectoTest\\Logica\\Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-14T02:52:51.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Producto.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Tienda\\Producto.cshtml",
-              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Producto.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Tienda\\Producto.cshtml",
-              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Producto.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-14T03:42:51.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Tienda.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Tienda.cshtml",
-              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Tienda.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Tienda.cshtml",
-              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Tienda.cshtml",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAEwEoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-14T03:42:37.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T18:06:42.331Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-14T03:42:43.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T17:58:34.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Site.css",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Content\\Site.css",
-              "RelativeDocumentMoniker": "ProyectoTest\\Content\\Site.css",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Content\\Site.css",
-              "RelativeToolTip": "ProyectoTest\\Content\\Site.css",
-              "ViewState": "AQIAACsfAAAAAAAAAAAawDwfAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2023-11-14T11:52:54.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "002_PROCEDIMIENTOS.sql ",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\Utilidad\\SQL Server\\002_PROCEDIMIENTOS.sql",
-              "RelativeDocumentMoniker": "Utilidad\\SQL Server\\002_PROCEDIMIENTOS.sql",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\Utilidad\\SQL Server\\002_PROCEDIMIENTOS.sql",
-              "RelativeToolTip": "Utilidad\\SQL Server\\002_PROCEDIMIENTOS.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
-              "WhenOpened": "2023-11-20T00:01:43.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TiendaController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Controllers\\TiendaController.cs",
-              "RelativeDocumentMoniker": "ProyectoTest\\Controllers\\TiendaController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Controllers\\TiendaController.cs",
-              "RelativeToolTip": "ProyectoTest\\Controllers\\TiendaController.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAswIwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-14T02:53:59.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Producto.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Producto.cshtml",
-              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Producto.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Producto.cshtml",
-              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Producto.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Tienda.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T15:24:00.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Marca.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Marca.cshtml",
-              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Marca.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Marca.cshtml",
-              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Marca.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T15:34:05.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "003_INSERTAR DATOS.sql ",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\Utilidad\\SQL Server\\003_INSERTAR DATOS.sql",
-              "RelativeDocumentMoniker": "Utilidad\\SQL Server\\003_INSERTAR DATOS.sql",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\Utilidad\\SQL Server\\003_INSERTAR DATOS.sql",
-              "RelativeToolTip": "Utilidad\\SQL Server\\003_INSERTAR DATOS.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
-              "WhenOpened": "2023-11-20T00:02:05.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "004_INSERTAR UBIGEO.sql ",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\Utilidad\\SQL Server\\004_INSERTAR UBIGEO.sql",
-              "RelativeDocumentMoniker": "Utilidad\\SQL Server\\004_INSERTAR UBIGEO.sql",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\Utilidad\\SQL Server\\004_INSERTAR UBIGEO.sql",
-              "RelativeToolTip": "Utilidad\\SQL Server\\004_INSERTAR UBIGEO.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
-              "WhenOpened": "2023-11-20T00:02:27.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CarritoLogica.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Logica\\CarritoLogica.cs",
-              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\CarritoLogica.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Logica\\CarritoLogica.cs",
-              "RelativeToolTip": "ProyectoTest\\Logica\\CarritoLogica.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-20T00:20:14.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UsuarioLogica.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Logica\\UsuarioLogica.cs",
-              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\UsuarioLogica.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Logica\\UsuarioLogica.cs",
-              "RelativeToolTip": "ProyectoTest\\Logica\\UsuarioLogica.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAgwEsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-20T00:20:35.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "001_CREACION BASE Y TABLAS.sql ",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\Utilidad\\SQL Server\\001_CREACION BASE Y TABLAS.sql",
-              "RelativeDocumentMoniker": "Utilidad\\SQL Server\\001_CREACION BASE Y TABLAS.sql",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\Utilidad\\SQL Server\\001_CREACION BASE Y TABLAS.sql",
-              "RelativeToolTip": "Utilidad\\SQL Server\\001_CREACION BASE Y TABLAS.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
-              "WhenOpened": "2023-11-14T20:03:37.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Web.config",
-              "RelativeDocumentMoniker": "ProyectoTest\\Web.config",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Web.config",
-              "RelativeToolTip": "ProyectoTest\\Web.config",
-              "ViewState": "AQIAABkAAAAAAAAAAABBwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2023-11-14T20:00:58.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DetalleCompra.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Models\\DetalleCompra.cs",
-              "RelativeDocumentMoniker": "ProyectoTest\\Models\\DetalleCompra.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Models\\DetalleCompra.cs",
-              "RelativeToolTip": "ProyectoTest\\Models\\DetalleCompra.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-14T20:00:32.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Carrito.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Models\\Carrito.cs",
-              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Carrito.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Models\\Carrito.cs",
-              "RelativeToolTip": "ProyectoTest\\Models\\Carrito.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-14T20:00:24.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "ProyectoTest\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-14T13:44:56.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProyectoTest\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-14T11:50:06.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Layout_Tienda.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
-              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
-              "RelativeToolTip": "ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAEiewAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-14T04:17:50.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Scripts\\src\\index.js",
-              "RelativeDocumentMoniker": "ProyectoTest\\Scripts\\src\\index.js",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Scripts\\src\\index.js",
-              "RelativeToolTip": "ProyectoTest\\Scripts\\src\\index.js",
-              "ViewState": "AQIAAJcAAAAAAAAAAIBJwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2023-11-14T11:50:20.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "sweetalert.min.js",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Scripts\\SweetAlert\\sweetalert.min.js",
-              "RelativeDocumentMoniker": "ProyectoTest\\Scripts\\SweetAlert\\sweetalert.min.js",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Scripts\\SweetAlert\\sweetalert.min.js",
-              "RelativeToolTip": "ProyectoTest\\Scripts\\SweetAlert\\sweetalert.min.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2023-11-14T11:51:42.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T17:58:26.052Z"
             }
           ]
         }

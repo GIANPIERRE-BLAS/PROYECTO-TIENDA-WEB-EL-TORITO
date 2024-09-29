@@ -14,9 +14,32 @@
         <div class="container-fluid">
 
             <!-- Navbar Brand-->
-            <a class="navbar-brand ps-3" href="#" style="width:180px !important">Carrito Compras</a>
-            <!-- Sidebar Toggle-->
-            <button class="btn btn-dark btn-ver-categoria" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i> Ver Categorias</button>
+            <img src="~/Imagenes/log/LOGOEMPRE.png" />
+            
+            <!-- Botón "Nosotros" -->
+            <button class="btn btn-dark btn-ver-nosotros" id="nosotrosToggle" href="#!">
+                <i class="fas fa-info-circle"></i> Nosotros
+            </button>
+
+            <!-- Botón "Contacto" -->
+            <button class="btn btn-dark btn-ver-contacto" id="contactoToggle" href="#!">
+                <i class="fas fa-envelope"></i> Contacto
+            </button>
+
+            <!-- Botón "Servicios" -->
+            <button class="btn btn-dark btn-ver-servicios" id="serviciosToggle" href="#!">
+                <i class="fas fa-concierge-bell"></i> Servicios
+            </button>
+
+            <!-- Botón "Testimonios" -->
+            <button class="btn btn-dark btn-ver-testimonios" id="testimoniosToggle" href="#!">
+                <i class="fas fa-comments"></i> Testimonios
+            </button>
+
+            <!-- Botón "Blog" -->
+            <button class="btn btn-dark btn-ver-blog" id="blogToggle" href="#!">
+                <i class="fas fa-blog"></i> Blog
+            </button>
 
             <!-- Navbar-->
             @{
@@ -28,6 +51,8 @@
                             <span class="badge bg-dark text-white ms-1 rounded-pill contador-carrito">0</span>
                         </button>
                     </form>
+                    <!-- Sidebar Toggle-->
+                    <button class="btn btn-dark btn-ver-categoria" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i> Ver Categorias</button>
 
                     <ul class="navbar-nav me-2">
                         <li class="nav-item dropdown">

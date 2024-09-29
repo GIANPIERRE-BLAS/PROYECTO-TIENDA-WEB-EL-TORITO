@@ -4,52 +4,130 @@
 }
 
 <!DOCTYPE html>
-
-<html>
+<html lang="es">
 <head>
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Registrarse</title>
     @Styles.Render("~/Content/css")
+    <style>
+        body {
+            background: linear-gradient(135deg, #0b0c10, #1f2833);
+            font-family: 'Arial', sans-serif;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+        }
+
+        .card {
+            background-color: rgba(18, 18, 18, 0.9);
+            border: 5px solid transparent;
+            border-radius: 10px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(10px);
+            padding: 40px;
+            width: 600px; /* Aumento del ancho para ser más rectangular */
+            position: relative;
+            overflow: hidden;
+        }
+
+            .card::before {
+                content: '';
+                position: absolute;
+                top: -5px;
+                left: -5px;
+                right: -5px;
+                bottom: -5px;
+                border-radius: 10px;
+                border: 5px solid #00bfff;
+                filter: blur(10px);
+                z-index: -1;
+            }
+
+        .card-header {
+            border-bottom: none;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+            .card-header h3 {
+                color: white;
+            }
+
+        .form-control {
+            background-color: #0c0c0c;
+            border: 1px solid #00bfff;
+            color: #ffffff; /* Cambiado a blanco para mayor visibilidad */
+            padding: 10px; /* Aumentar el padding para mejor visualización */
+        }
+
+            .form-control::placeholder {
+                color: #b0b0b0; /* Color del texto del placeholder */
+            }
+
+        .btn-primary {
+            background-color: #45a29e;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            width: 100%;
+        }
+
+            .btn-primary:hover {
+                background-color: #66fcf1;
+            }
+
+        .card-body {
+            padding: 20px;
+        }
+
+        .footer-text {
+            color: #ffffff;
+        }
+    </style>
 </head>
-<body class="bg-dark">
+<body>
     <div id="layoutAuthentication">
         <div id="layoutAuthentication_content">
             <main>
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-7">
-                            <div class="card shadow-lg border-0 rounded-lg mt-5">
-                                <div class="card-header"><h3 class="text-center font-weight-light my-4">Crear Cuenta</h3></div>
+                <div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="card shadow-lg border-0 rounded-lg">
+                                <div class="card-header">
+                                    <h3 class="text-center font-weight-light my-4">Crear Cuenta</h3>
+                                </div>
                                 <div class="card-body">
-                                    <form action="@Url.Action("Registrarse","Login")" method="post">
+                                    <form action="@Url.Action("Registrarse", "Login")" method="post">
                                         <div class="row mb-3">
                                             <div class="col-md-6">
-                                                <div class="form-floating mb-3 mb-md-0">
-                                                    <input class="form-control" id="inputFirstName" name="NNombres" type="text" placeholder="Nombres" value="@Html.DisplayTextFor(model => model.Nombres)" />
+                                                <div class="form-floating mb-3">
+                                                    <input class="form-control" id="inputFirstName" name="NNombres" type="text" placeholder="Nombres" value="@Html.DisplayTextFor(model => model.Nombres)" required />
                                                     <label for="inputFirstName">Nombres</label>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
-                                                <div class="form-floating">
-                                                    <input class="form-control" id="inputLastName" name="NApellidos" type="text" placeholder="Apellidos" value="@Html.DisplayTextFor(model => model.Apellidos)" />
+                                                <div class="form-floating mb-3">
+                                                    <input class="form-control" id="inputLastName" name="NApellidos" type="text" placeholder="Apellidos" value="@Html.DisplayTextFor(model => model.Apellidos)" required />
                                                     <label for="inputLastName">Apellidos</label>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="form-floating mb-3">
-                                            <input class="form-control" id="inputEmail" type="email" name="NCorreo" placeholder="name@example.com" value="@Html.DisplayTextFor(model => model.Correo)" />
+                                            <input class="form-control" id="inputEmail" type="email" name="NCorreo" placeholder="name@example.com" value="@Html.DisplayTextFor(model => model.Correo)" required />
                                             <label for="inputEmail">Correo</label>
                                         </div>
                                         <div class="row mb-3">
                                             <div class="col-md-6">
-                                                <div class="form-floating mb-3 mb-md-0">
-                                                    <input class="form-control" id="inputPassword" name="NContrasena" type="password" placeholder="Contraseña" value="@Html.DisplayTextFor(model => model.Contrasena)" />
-                                                    <label for="inputPassword">Password</label>
+                                                <div class="form-floating mb-3">
+                                                    <input class="form-control" id="inputPassword" name="NContrasena" type="password" placeholder="Contraseña" required />
+                                                    <label for="inputPassword">Contraseña</label>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
-                                                <div class="form-floating mb-3 mb-md-0">
-                                                    <input class="form-control" id="inputPasswordConfirm" name="NConfirmarContrasena" type="password" placeholder="Confirmar contraseña" value="@Html.DisplayTextFor(model => model.ConfirmarContrasena)" />
+                                                <div class="form-floating mb-3">
+                                                    <input class="form-control" id="inputPasswordConfirm" name="NConfirmarContrasena" type="password" placeholder="Confirmar contraseña" required />
                                                     <label for="inputPasswordConfirm">Confirmar Contraseña</label>
                                                 </div>
                                             </div>
@@ -71,27 +149,15 @@
                                     </form>
                                 </div>
                                 <div class="card-footer text-center py-3">
-
+                                    <div class="small">
+                                        <a href="@Url.Action("Index", "Login")" class="footer-text" style="text-decoration: underline;">¿Ya tienes cuenta? Inicia sesión aquí</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </main>
-        </div>
-        <div id="layoutAuthentication_footer">
-            <footer class="py-4 bg-light mt-auto">
-                <div class="container-fluid px-4">
-                    <div class="d-flex align-items-center justify-content-between small">
-                        <div class="text-muted">Copyright &copy; Your Website 2021</div>
-                        <div>
-                            <a href="#">Privacy Policy</a>
-                            &middot;
-                            <a href="#">Terms &amp; Conditions</a>
-                        </div>
-                    </div>
-                </div>
-            </footer>
         </div>
     </div>
     @Scripts.Render("~/bundles/jquery")

@@ -1,5 +1,4 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Layout_Tienda.cshtml";
 }
@@ -7,23 +6,48 @@
 <head>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap">
     <style>
-        .custom-style {
-            font-family: 'Pacifico', cursive;
-            font-style: italic;
-            letter-spacing: 10px;
-            color: white;
-            background-color: black;
-            padding: 20px;
-            text-align: center;
+        .full-width-img {
+            width: 110%;
+            height: 100%;
+            max-height: 100vh; /* Asegura que la imagen no sobrepase la altura de la pantalla */
+            object-fit: cover; /* Mantiene la proporción de la imagen */
+        }
+
+        .image-container {
+            margin-top: 20px; /* Ajusta este valor según necesites */
         }
     </style>
 </head>
 <body>
     <div class="row mt-5">
-        <div class="bg-secondary py-3">
-            <div class="container my-3">
-                <div class="text-center text-white">
-                    <img src="~/Imagenes/log/BANNER.png" />
+        <div class="image-container">
+            <img src="~/Imagenes/log/Bannerindex.jpg" class="full-width-img" />
+        </div>
+    </div>
+
+    <div class="py-2">
+        <div class="container px-2 px-lg-2 mt-5">
+            <div id="catalogo-productos" class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                <!-- Productos aquí -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Seleccione una Categoría</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row row-categoria">
+                        <!-- Contenido de categorías aquí -->
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <!-- Botones del modal aquí -->
                 </div>
             </div>
         </div>
@@ -31,34 +55,6 @@
 </body>
 
 
-<div class="py-2">
-    <div class="container px-2 px-lg-2 mt-5">
-        <div id="catalogo-productos" class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
-
-        </div>
-    </div>
-</div>
-
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Seleccione una Categoría</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <div class="row row-categoria">
-                </div>
-
-            </div>
-            <div class="modal-footer">
-
-            </div>
-        </div>
-    </div>
-</div>
 
 @section scripts{
 

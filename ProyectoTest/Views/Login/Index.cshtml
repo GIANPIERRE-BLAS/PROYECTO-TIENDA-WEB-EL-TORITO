@@ -1,35 +1,113 @@
-﻿
-@{
-    Layout = null;
+﻿@{
+        Layout = null;
 }
 
 <!DOCTYPE html>
-
-<html>
+<html lang="es">
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Iniciar Sesión</title>
     @Styles.Render("~/Content/css")
+    <style>
+        body {
+            background: linear-gradient(135deg, #0b0c10, #1f2833);
+            font-family: 'Arial', sans-serif;
+            height: 100vh; /* Ocupa toda la altura de la ventana */
+            display: flex;
+            align-items: center; /* Centra verticalmente */
+            justify-content: center; /* Centra horizontalmente */
+            margin: 0; /* Eliminar márgenes del body */
+        }
+
+        .card {
+            background-color: rgba(18, 18, 18, 0.9);
+            border: 5px solid transparent; /* Inicialmente transparente */
+            border-radius: 15px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(10px);
+            padding: 40px; /* Espacio adicional alrededor de la tarjeta */
+            width: 450px; /* Ajusta el ancho según sea necesario */
+            position: relative;
+            overflow: hidden; /* Para asegurar que el borde de neón no se desborde */
+        }
+
+            .card::before {
+                content: '';
+                position: absolute;
+                top: -5px;
+                left: -5px;
+                right: -5px;
+                bottom: -5px;
+                border-radius: 15px;
+                border: 5px solid #00bfff; /* Borde neón azul */
+                filter: blur(10px);
+                z-index: -1; /* Envía el borde a la parte trasera */
+            }
+
+        .card-header {
+            border-bottom: none;
+            text-align: center;
+            margin-bottom: 20px; /* Espacio debajo del logo */
+        }
+
+            .card-header img {
+                width: 200px; /* Aumentar el tamaño del logo */
+                height: auto;
+            }
+
+        .form-control {
+            background-color: #0c0c0c;
+            border: 1px solid #00bfff; /* Borde azul futurista */
+            color: #00bfff;
+        }
+
+        .btn-primary {
+            background-color: #45a29e; /* Color futurista */
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            width: 100%; /* Botón de ancho completo */
+        }
+
+            .btn-primary:hover {
+                background-color: #66fcf1; /* Hover color */
+            }
+
+        .btn-register {
+            background-color: transparent; /* Fondo transparente */
+            color: #ffffff; /* Texto blanco */
+            border: none; /* Sin borde */
+            margin-top: 15px;
+            width: 100%;
+            text-decoration: underline; /* Subrayado para resaltar */
+            transition: color 0.3s;
+        }
+
+            .btn-register:hover {
+                color: #66fcf1; /* Color futurista al pasar el mouse */
+            }
+    </style>
 </head>
-<body class="bg-dark">
+<body>
     <div id="layoutAuthentication">
         <div id="layoutAuthentication_content">
             <main>
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-5">
-                            <div class="card shadow-lg border-0 rounded-lg mt-5">
-                                <div class="card-header"><h3 class="text-center font-weight-light my-4">Login</h3></div>
-                                <img src="~/Imagenes/log/lg2.png" />
+                <div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="card shadow-lg border-0 rounded-lg">
+                                <div class="card-header">
+                                    <img src="~/Imagenes/log/logosesion.png" alt="Logo" />
+                                </div>
                                 <div class="card-body">
                                     <form action="@Url.Content("~/Login/Index")" method="post">
                                         @Html.AntiForgeryToken()
                                         <div class="form-floating mb-3">
-                                            <input class="form-control" id="inputEmail" name="NCorreo" type="email" placeholder="name@example.com" @*value="pruebas@gmail.com"*@ value="admin@example.com" />
-                                            <label for="inputEmail">Correo</label>
+                                            <input class="form-control" id="inputEmail" name="NCorreo" type="email" placeholder="Nombre de usuario" required />
+                                            <label for="inputEmail">Nombre de usuario</label>
                                         </div>
                                         <div class="form-floating mb-3">
-                                            <input class="form-control" id="inputPassword" name="NContrasena" type="password" placeholder="Contraseña" @*value="12345"*@ autocomplete="off" value="admin123" />
+                                            <input class="form-control" id="inputPassword" name="NContrasena" type="password" placeholder="Contraseña" autocomplete="off" required />
                                             <label for="inputPassword">Contraseña</label>
                                         </div>
                                         <div class="form-floating mb-3">
@@ -41,20 +119,15 @@
                                                 }
                                             }
                                         </div>
-                                        <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
-                                            <button class="btn btn-primary btn-block" type="submit">Ingresar</button>
-                                        </div>
-                                        <div class="row mt-2">
-                                            <div class="col-sm-12 text-center">
-                                                <p class="mb-0">Todos los derechos reservados ©<a id="publicidad" href="https://ouo.io/RK1tRH" target="_blank" class="ml-1"><b>Open Source - Click Aqui</b></a></p>
-                                            </div>
+                                        <div class="d-flex justify-content-between mt-4 mb-0">
+                                            <button class="btn btn-primary" type="submit">Ingresar</button>
                                         </div>
                                     </form>
-                                    
                                 </div>
-                                
                                 <div class="card-footer text-center py-3">
-                                    <div class="small"><a id="publicidad_cuenta" href="@Url.Action("Registrarse","Login")">Necesitas una cuenta? Registrate!</a></div>
+                                    <div class="small">
+                                        <a id="publicidad" href="@Url.Action("Registrarse", "Login")" class="btn-register">¿No tienes cuenta? Regístrate aquí</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -62,25 +135,13 @@
                 </div>
             </main>
         </div>
-        <div id="layoutAuthentication_footer">
-            <footer class="py-4 bg-light mt-auto">
-                <div class="container-fluid px-4">
-                    <div class="d-flex align-items-center justify-content-between small">
-                        <div class="text-muted">Copyright &copy; Your Website 2021</div>
-                        <div>
-                            <a href="#">Privacy Policy</a>
-                            &middot;
-                            <a href="#">Terms &amp; Conditions</a>
-                        </div>
-                    </div>
-                </div>
-            </footer>
-        </div>
     </div>
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
-    <script>
-        
-    </script>
 </body>
 </html>
+
+
+
+
+

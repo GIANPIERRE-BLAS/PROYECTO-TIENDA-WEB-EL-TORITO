@@ -326,9 +326,10 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Imagenes\log\BANNER.png" />
-    <Content Include="Imagenes\log\lg1.png" />
+    <Content Include="Imagenes\log\Bannerindex.jpg" />
     <Content Include="Imagenes\log\lg2.png" />
+    <Content Include="Imagenes\log\LOGOEMPRE.png" />
+    <Content Include="Imagenes\log\logosesion.png" />
     <Content Include="Imagenes\Productos\1.jpg" />
     <Content Include="Imagenes\Productos\10.jpg" />
     <Content Include="Imagenes\Productos\11.jpg" />
